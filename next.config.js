@@ -11,5 +11,6 @@ const nextConfig = {
   eslint: {
     ignoreDuringBuilds: false,
   },
+  output:"export"
 };
 module.exports = nextConfig;
